@@ -392,7 +392,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/tcm\/workadventure\/floor1#from-floor2-west"
+                 "value":"1er.tmj#from-floor2-west"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -478,7 +478,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/tcm\/workadventure\/floor1#from-floor2-east"
+                 "value":"1er.tmj#from-floor2-east"
                 }],
          "type":"tilelayer",
          "visible":true,

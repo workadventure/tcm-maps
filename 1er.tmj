@@ -493,7 +493,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/tcm\/workadventure\/floor0#from-floor1"
+                 "value":"rdc.tmj#from-floor1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -579,7 +579,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/tcm\/workadventure\/floor2#from-floor1-east"
+                 "value":"2eme.tmj#from-floor1-east"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -665,7 +665,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/tcm\/workadventure\/floor2#from-floor1-west"
+                 "value":"2eme.tmj#from-floor1-west"
                 }],
          "type":"tilelayer",
          "visible":true,
