@@ -1681,7 +1681,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"1er.tmj#from-floor0"
+                 "value":"1er#from-floor0"
                 }],
          "type":"tilelayer",
          "visible":true,
